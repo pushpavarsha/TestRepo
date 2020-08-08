@@ -1,6 +1,14 @@
 abcdefgh
 
 fff
+<<<<<<< HEAD
 gh
 
 ddd
+=======
+gh
+>>>>>>> parent of f13ce44... add all files
+
+sdfds
+
+
